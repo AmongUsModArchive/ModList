@@ -1,4 +1,5 @@
 blank_issues_enabled: false
+contact_links:
   - name: 其他类型的issue
     url: https://github.com/AmongUsModArchive/WebSite/issues/new/choose
     about: 您想要反馈网站的bug或是想要网站增加新功能?请转到我们的WebSite仓库并发出issue。
