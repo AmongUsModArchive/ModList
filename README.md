@@ -11,6 +11,7 @@
 - **[TheOtherRoles](https://aumod.site/archives/TheOtherRoles)** The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
 - **[SuperNewRoles](https://aumod.site/archives/SuperNewRoles)** モードや役職など、様々な要素があるAmongUsのMOD、SuperNewRoles!!!!
 - **[TownOfImpostors](https://aumod.site/archives/TownOfImpostors)** TownOfImpostors Mod for Among Us.
+- **[TownOfPlus](https://aumod.site/archives/TownOfPlus)** Among Usに様々な機能を追加するmod.
 ## 插件
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
 ## 工具
