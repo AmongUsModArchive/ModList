@@ -7,7 +7,6 @@
 - **[TownOfHost](https://aumod.site/archives/TownOfHost)** Host only mod for Among Us.
 - **[TownOfHostEdited](https://aumod.site/archives/TownOfHostEdited)** An Amongs mod with learning & love.
 - **[TownOfHostEditedXi](https://aumod.site/archives/TownOfHostEditedXi)** Host Only mod forked from Town Of Host Edited.
-- **[EndlessHostRoles](https://aumod.site/archives/EndlessHostRoles)** EHR is the biggest host-only mod for Among Us, with over 400 roles and 10 game modes, along with a Custom Team Assigner application to fully customize your games!
 ### 非H模组
 - **[TheOtherRoles](https://aumod.site/archives/TheOtherRoles)** The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
 - **[SuperNewRoles](https://aumod.site/archives/SuperNewRoles)** モードや役職など、様々な要素があるAmongUsのMOD、SuperNewRoles!!!!
