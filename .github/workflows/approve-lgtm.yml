@@ -10,12 +10,25 @@ jobs:
     if: github.event.issue.pull_request != null
 
     steps:
-      - name: Check if comment is /lgtm
+      - name: Check if commenter is a member of AmongUsModArchive and comment is /lgtm
         id: lgtm_check
         run: |
-          if [[ "${{ github.event.comment.body }}" == "/lgtm" ]]; then
-            echo "lgtm=true" >> $GITHUB_ENV
+          COMMENTER="${{ github.event.comment.user.login }}"
+          ORG="AmongUsModArchive"
+          COMMENT_BODY="${{ github.event.comment.body }}"
+
+          # Check if the comment is "/lgtm" and the user is a member of the organization
+          if [[ "$COMMENT_BODY" == "/lgtm" ]]; then
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              "https://api.github.com/orgs/$ORG/members/$COMMENTER")
+            if [ "$STATUS" -eq 204 ]; then
+              echo "lgtm=true" >> $GITHUB_ENV
+            else
+              echo "Commenter is not a member of $ORG"
+              echo "lgtm=false" >> $GITHUB_ENV
+            fi
           else
+            echo "Comment is not /lgtm"
             echo "lgtm=false" >> $GITHUB_ENV
           fi
 
