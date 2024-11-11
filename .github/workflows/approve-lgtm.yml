@@ -1,0 +1,28 @@
+name: Approve PR and Add LGTM Label
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  approve_and_label:
+    runs-on: ubuntu-latest
+    if: github.event.issue.pull_request != null
+
+    steps:
+      - name: Check if comment is /lgtm
+        if: ${{ github.event.comment.body == '/lgtm' }}
+        run: echo "Command /lgtm detected"
+
+      - name: Approve pull request
+        if: ${{ github.event.comment.body == '/lgtm' }}
+        uses: actions-ecosystem/action-add-approve@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add LGTM label
+        if: ${{ github.event.comment.body == '/lgtm' }}
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: LGTM
