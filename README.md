@@ -19,5 +19,3 @@
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
 
 ---
-## 贡献
-要为本仓库作出贡献,请参见[贡献指南](CONTRIBUTING.md)。
