@@ -21,3 +21,7 @@
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
 
 ---
+
+> [!TIP]
+> 要加入我们吗?请在站点页脚菜单中找到QingFeng的QQ链接并申请好友。\
+> 请在申请时说明来意,别乱填。
