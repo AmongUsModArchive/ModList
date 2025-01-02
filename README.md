@@ -15,6 +15,7 @@
 - **[TownOfImpostors](https://aumod.site/archives/TownOfImpostors)** TownOfImpostors Mod for Among Us.
 - **[TownOfPlus](https://aumod.site/archives/TownOfPlus)** Among Usに様々な機能を追加するmod.
 - **[AllTheRoles](https://aumod.site/archives/AllTheRoles)** An Among Us mod which adds many new roles, modifiers, game modes, map settings, hats and more.
+- **[ClashOfGods](https://aumod.site/archives/ClashOfGods)** A new-term mod for Among Us with plugin system that allows you to make your own plugin by EASY computer language Lua for Among Us.
 ## 插件
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
 ## 工具
