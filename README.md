@@ -19,6 +19,7 @@
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
 ## 工具
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
+- **[ModManager](https://aumod.site/archives/ModManager)** Among Us Mod Manager is an open-source launcher for the popular game Among Us. It allows you to switch between many established mods with only a few clicks!
 
 ---
 
