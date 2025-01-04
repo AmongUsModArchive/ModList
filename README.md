@@ -17,6 +17,7 @@
 - **[AllTheRoles](https://aumod.site/archives/AllTheRoles)** An Among Us mod which adds many new roles, modifiers, game modes, map settings, hats and more.
 ## 插件
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
+- **[YuEzTools](https://aumod.site/archives/YuEzTools)** An Easy Tools for Among Us Game.
 ## 工具
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
 
