@@ -19,6 +19,7 @@
 - **[Nebula](https://aumod.site/archives/Nebula)** Nebula on the Ship is Mod for Among Us.
 ## 插件
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
+- **[MalumMenu](https://aumod.site/archives/MalumMenu)** An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 ## 工具
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
 
