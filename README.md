@@ -18,6 +18,7 @@
 - **[ClashOfGods](https://aumod.site/archives/ClashOfGods)** A new-term mod for Among Us with plugin system that allows you to make your own plugin by EASY computer language Lua for Among Us.
 ## 插件
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
+- **[BetterAmongUs](https://aumod.site/archives/BetterAmongUs)** A client-sided mod that enhances the experience for the popular game Among Us!
 ## 工具
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
 
