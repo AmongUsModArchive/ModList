@@ -1,1 +1,20 @@
-
+{
+  "HostOnly": [
+    { "Name":"TownOfHost" , "Description":"Host only mod for Among Us." , "URL":"https://aumod.site/archives/TownOfHost" }
+  ]
+},
+{
+  "NotHostOnly": [
+    { "Name":"TheOtherRoles" , "Description":"The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game." , "URL":"https://aumod.site/archives/TheOtherRoles" }
+  ]
+},
+{
+  "Plugin": [
+    { "Name":"FinalSuspect" , "Description":"Your best functional tool for Among Us." : "URL":"https://aumod.site/archives/FinalSuspect" }
+  ]
+},
+{
+  "EasyTool": [
+    { "Name":"BetterCrewLink" , "Description":"Free, open, Among Us Proximity Chat." , "URL":"https://aumod.site/archives/BetterCrewLink" }
+  ]
+}
