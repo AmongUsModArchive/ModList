@@ -15,6 +15,7 @@
 - **[TownOfImpostors](https://aumod.site/archives/TownOfImpostors)** TownOfImpostors Mod for Among Us.
 - **[TownOfPlus](https://aumod.site/archives/TownOfPlus)** Among Usに様々な機能を追加するmod.
 - **[AllTheRoles](https://aumod.site/archives/AllTheRoles)** An Among Us mod which adds many new roles, modifiers, game modes, map settings, hats and more.
+- **[ClashOfGods](https://aumod.site/archives/ClashOfGods)** A new-term mod for Among Us with plugin system that allows you to make your own plugin by EASY computer language Lua for Among Us.
 - **[Nebula](https://aumod.site/archives/Nebula)** Nebula on the Ship is Mod for Among Us.
 ## 插件
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
@@ -22,3 +23,7 @@
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
 
 ---
+
+> [!TIP]
+> 要加入我们吗?请在站点页脚菜单中找到QingFeng的QQ链接并申请好友。\
+> 请在申请时说明来意,别乱填。
