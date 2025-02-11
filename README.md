@@ -17,6 +17,7 @@
 - **[AllTheRoles](https://aumod.site/archives/AllTheRoles)** An Among Us mod which adds many new roles, modifiers, game modes, map settings, hats and more.
 - **[ClashOfGods](https://aumod.site/archives/ClashOfGods)** A new-term mod for Among Us with plugin system that allows you to make your own plugin by EASY computer language Lua for Among Us.
 - **[Nebula](https://aumod.site/archives/Nebula)** Nebula on the Ship is Mod for Among Us.
+- **[TheOtherRolesGM](https://aumod.site/archives/TheOtherRolesGM)** This fork introduces a number of changes to The Other Roles.
 ## 插件
 - **[FinalSuspect](https://aumod.site/archives/FinalSuspect)** Your best functional tool for Among Us.
 - **[MalumMenu](https://aumod.site/archives/MalumMenu)** An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
