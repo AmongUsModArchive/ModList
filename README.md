@@ -22,6 +22,7 @@
 - **[MalumMenu](https://aumod.site/archives/MalumMenu)** An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 ## 工具
 - **[BetterCrewLink](https://aumod.site/archives/BetterCrewLink)** Free, open, Among Us Proximity Chat.
+- **[ModManager](https://aumod.site/archives/ModManager)** Among Us Mod Manager is an open-source launcher for the popular game Among Us. It allows you to switch between many established mods with only a few clicks!
 
 ---
 
